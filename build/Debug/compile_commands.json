@@ -1,0 +1,158 @@
+[
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\STM32_Morse_Decoder.dir\\Core\\Src\\main.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Core\\Src\\main.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Core/Src/main.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/CMakeFiles/STM32_Morse_Decoder.dir/Core/Src/main.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\STM32_Morse_Decoder.dir\\Core\\Src\\gpio.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Core\\Src\\gpio.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Core/Src/gpio.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/CMakeFiles/STM32_Morse_Decoder.dir/Core/Src/gpio.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\STM32_Morse_Decoder.dir\\Core\\Src\\usart.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Core\\Src\\usart.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Core/Src/usart.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/CMakeFiles/STM32_Morse_Decoder.dir/Core/Src/usart.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\STM32_Morse_Decoder.dir\\Core\\Src\\stm32l4xx_it.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Core\\Src\\stm32l4xx_it.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Core/Src/stm32l4xx_it.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/CMakeFiles/STM32_Morse_Decoder.dir/Core/Src/stm32l4xx_it.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\STM32_Morse_Decoder.dir\\Core\\Src\\stm32l4xx_hal_msp.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Core\\Src\\stm32l4xx_hal_msp.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Core/Src/stm32l4xx_hal_msp.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/CMakeFiles/STM32_Morse_Decoder.dir/Core/Src/stm32l4xx_hal_msp.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\STM32_Morse_Decoder.dir\\Core\\Src\\sysmem.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Core\\Src\\sysmem.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Core/Src/sysmem.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/CMakeFiles/STM32_Morse_Decoder.dir/Core/Src/sysmem.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\STM32_Morse_Decoder.dir\\Core\\Src\\syscalls.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Core\\Src\\syscalls.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Core/Src/syscalls.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/CMakeFiles/STM32_Morse_Decoder.dir/Core/Src/syscalls.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\STM32_Morse_Decoder.dir\\startup_stm32l476xx.s.obj -c D:\\larp\\STM32_Morse_Decoder\\startup_stm32l476xx.s",
+  "file": "D:/larp/STM32_Morse_Decoder/startup_stm32l476xx.s",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/CMakeFiles/STM32_Morse_Decoder.dir/startup_stm32l476xx.s.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32l4xx.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Core\\Src\\system_stm32l4xx.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Core/Src/system_stm32l4xx.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32l4xx.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_uart.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_uart.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_uart_ex.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_uart_ex.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_rcc.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_rcc.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_rcc_ex.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_rcc_ex.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_flash.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_flash.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_flash_ex.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_flash_ex.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_flash_ramfunc.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_flash_ramfunc.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ramfunc.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ramfunc.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_gpio.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_gpio.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_i2c.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_i2c.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_i2c_ex.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_i2c_ex.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_dma.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_dma.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_dma_ex.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_dma_ex.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_pwr.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_pwr.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_pwr_ex.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_pwr_ex.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_cortex.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_cortex.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj"
+},
+{
+  "directory": "D:/larp/STM32_Morse_Decoder/build/Debug",
+  "command": "D:\\stm32\\arm-gnu-toolchain\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32L476xx -DUSE_HAL_DRIVER -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Core/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32L4xx/Include -ID:/larp/STM32_Morse_Decoder/cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_exti.c.obj -c D:\\larp\\STM32_Morse_Decoder\\Drivers\\STM32L4xx_HAL_Driver\\Src\\stm32l4xx_hal_exti.c",
+  "file": "D:/larp/STM32_Morse_Decoder/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c",
+  "output": "D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c.obj"
+}
+]
