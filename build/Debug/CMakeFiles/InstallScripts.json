@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/larp/STM32_Morse_Decoder/build/Debug/cmake_install.cmake",
-		"D:/larp/STM32_Morse_Decoder/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
